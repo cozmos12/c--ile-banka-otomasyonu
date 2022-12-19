@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "29v84bydxgVlj8jDy+LhrIKG/a30FF9N8skf5MPYaaMreJ2IMlDRgX8TlxAc3eEd50zY5hSjMN8n2Re9knwUgA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\meki3\\OneDrive\\Resimler\\uygulamalar\\banka\\banka\\banka.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\meki3\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512"
+  ],
+  "logs": []
+}
